@@ -1,4 +1,4 @@
-# AI-Powered 3D Website Using React
+# AI-Tee: Empowering Creativity with AI-Generated T-Shirt Designs 
 
 
 ![image](https://user-images.githubusercontent.com/64458111/229379904-831b98c8-3232-4d56-af1c-8fd223df8fd8.png)
