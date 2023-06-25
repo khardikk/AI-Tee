@@ -1,6 +1,5 @@
 # AI-Powered 3D Website Using React
 
-This application is a showcase of how AI can be integrated with web development using React, OpenAI's Dalle API, and Three.js. The application generates unique logos using Dalle's AI capabilities, and displays them on 3D t-shirts that can be interacted with by users.
 
 ![image](https://user-images.githubusercontent.com/64458111/229379904-831b98c8-3232-4d56-af1c-8fd223df8fd8.png)
 
